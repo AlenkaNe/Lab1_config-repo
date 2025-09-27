@@ -1,0 +1,11 @@
+app:
+  description: "Это мой микросервис для управления пользователями"
+  version: "1.0.0"
+  name: "User Service"
+
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/userdb
