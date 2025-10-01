@@ -1,7 +1,7 @@
 app:
   description: "Микросервис компании"
   version: "1.0.0"
-  name: "User Service"
+  name: "Company Service"
 
 server:
   port: 8082
