@@ -1,5 +1,5 @@
 app:
-  description: "Это мой микросервис для управления пользователями"
+  description: "${USER_SERVICE_DESCRIPTION: Это мой микросервис для управления пользователями}"
   version: "1.0.0"
   name: "User Service"
 
