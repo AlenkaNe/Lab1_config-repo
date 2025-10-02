@@ -1,5 +1,5 @@
 app:
-  description: "Микросервис компании 1"
+  description: "Микросервис компании 2"
   version: "1.0.0"
   name: "Company Service"
 
